@@ -1,0 +1,68 @@
+
+---
+output: 
+  html_document:
+    theme: flatly
+---
+
+
+
+Here is a link to my [Likedin profile](https://www.linkedin.com/in/kefan-wu-660b00224/)
+
+# {.tabset}
+
+## Acedemic 
+### Columbia University Mailman School of Public Health
+
+- **location**: New York, NY
+- **Expected** May 2025
+- **Major**: Epidemiology (MPH)
+- **Certificate**: Epidemiology of Chronic Disease
+
+### Stony Brook University
+
+- **Location**: Stony Brook, NY
+- **Graduated**: May 2023
+- **Majors**: Biology (B.S.) and Psychology (B.S.)
+- **Honors**: Cum Laude | Dean’s List (5 Semesters) 
+
+
+## Professional 
+### Department of Population Health, NYU Langone Health
+
+- **location**: New York, NY
+- **Time**: June 2024 – Present 
+- **Program Name**:Pediatric Oral Health & OurChild Minority Health Disparity Studies
+- **Title**: Research Intern
+
+◈ Maintained participant tracking logs and compliance databases, effectively scheduling and communicating with participants while fostering strong relationships with recruitment sites to enhance recruitment efforts
+
+◈ Administered surveys, analyzed quantitative data, conducted qualitative interviews, and managed the translation and transcription of materials to gather insights into participants' experiences while ensuring accuracy, confidentiality, and adherence to protocols
+
+
+### Department of Psychiatry, Stony Brook University Hospital 
+
+- **Location**: Stony Brook, NY
+- **Time**: July 2022 – May 2023
+- **Program Name**:World Trade Center Personality & Health Study      
+- **Title**: Research Assistant
+
+◈ Recruited participants through calls, determined participant eligibility, and scheduled appointments 
+
+◈  Analyzed interview videos and wrote reports to provide overview information to the research team
+
+◈  Sorted and compiled over 300 patients’ Structured Clinical Interview for DSM Disorders (SCID) diagnose results into electronic records to optimize the organization of documents for psychiatrists 
+
+### Department of Biomedical Engineering, Stony Brook University
+
+- **Location**: Stony Brook, NY 
+- **Time**: June 2022 – December 2022
+- **Program Name**: Engineering-Meets-Medicine Laboratory
+- **Title**: Research Assistant
+
+◈ Performed cell culture, embedding tissue and staining sample to assisted postdoctoral researcher 
+◈ Used 3D Slicer and Autodesk Meshmixer to build 3D models of rabbits’ femur bone for pressure test 
+
+
+
+

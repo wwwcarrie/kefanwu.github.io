@@ -1,0 +1,59 @@
+---
+title: "Welcome to my autobiography"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: flatly
+---
+
+
+# Introduction
+
+It is going to be fun! Let's started!
+
+![](~/Desktop/Fall2024/DS/DS Code/bst-p8105.guihub.io/p8105_hw4_kw3104/images/started.gif)
+
+**My name is Kefan Wu, I prefer go by Carrie :)**
+
+I am an international student from China. 
+
+
+
+This is "smart" me (silly... i know...)
+
+![](~/Desktop/Fall2024/DS/DS Code/bst-p8105.guihub.io/p8105_hw4_kw3104/images/smartme.gif)
+
+and my cute cute lovely cat -- Arthur !
+
+![](~/Desktop/Fall2024/DS/DS Code/bst-p8105.guihub.io/p8105_hw4_kw3104/images/ywan.gif)
+
+He named after King Arthur! 
+
+...green eyes, golden hair, lion-like...he really looks like a knight, isn't he?
+
+
+
+
+not from him! (I get a lot of comments on this)
+
+<img src ="images/cartoon.jpg" style="width:75%">
+
+I know... they are similar...might be the same breed. 
+
+
+
+
+
+
+# Experience
+
+Now, Let’s take a look of my academic and professional [Journey](exp.html)
+
+
+
+
+
+
+
+
