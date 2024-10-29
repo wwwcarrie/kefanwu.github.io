@@ -1,10 +1,10 @@
 ---
 title: "Welcome to my autobiography"
+site: mysite.yml
 output: 
   html_document:
     toc: true
     toc_float: true
-    theme: flatly
 ---
 
 
@@ -49,7 +49,6 @@ I know... they are similar...might be the same breed.
 # Experience
 
 Now, Let’s take a look of my academic and professional [Journey](exp.html)
-
 
 
 

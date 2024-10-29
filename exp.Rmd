@@ -1,11 +1,9 @@
 
 ---
+site: mysite.yml
 output: 
-  html_document:
-    theme: flatly
+  html_document
 ---
-
-
 
 Here is a link to my [Likedin profile](https://www.linkedin.com/in/kefan-wu-660b00224/)
 
